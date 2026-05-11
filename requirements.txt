@@ -1,0 +1,6 @@
+python=3.8.0
+pandas
+numpy
+scikit-learn
+matplotlib       
+seaborn
