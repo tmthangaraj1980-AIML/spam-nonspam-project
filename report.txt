@@ -1,0 +1,16 @@
+This project output:
+Accuracy: 0.9133016627078385
+
+Confusion Matrix:
+[[479  27]
+ [ 46 290]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.91      0.95      0.93       506
+           1       0.91      0.86      0.89       336
+
+    accuracy                           0.91       842
+   macro avg       0.91      0.90      0.91       842
+weighted avg       0.91      0.91      0.91       842
