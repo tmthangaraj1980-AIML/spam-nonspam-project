@@ -22,6 +22,6 @@ Tools used:
 * matplotlib
 
 
-Author:
-THANGARAJ T
-PYTHON DEVELOPER
+## Author:
+* THANGARAJ T
+* AIML/PYTHON DEVELOPER
