@@ -4,3 +4,4 @@ numpy=2.14
 scikit-learn=2.33
 matplotlib       
 seaborn
+Google colab notebook
