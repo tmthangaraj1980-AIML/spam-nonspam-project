@@ -21,6 +21,7 @@ Tools used:
 * Scikit-learn
 * matplotlib
 
-Author:
-THANGARAJ T
-AIML ENGINEER
+
+## Author:
+* THANGARAJ T
+* AIML/PYTHON DEVELOPER
