@@ -19,4 +19,4 @@ Tools used:
 * Numpy
 * Pandas
 * Scikit-learn
-matplotlib
+* matplotlib
